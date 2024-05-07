@@ -1,0 +1,15 @@
+{
+    "rarity": {
+      "color": "blue",
+      "name": "Excellent"
+    },
+    "image": "../assets/sword.png",
+    "nameIMG": "Arondight",
+    "description": "Épée de Lancelot du Lac",
+    "attributes": {
+      "ATQ": 75,
+      "DEF": 60,
+      "VIT": 85
+    }
+  }
+  
